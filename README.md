@@ -1,22 +1,22 @@
-Diabetes-Prediction-Web-App
+#Diabetes-Prediction-Web-App
 A trained Support Vector Machine (SVM) model will detect whether you have diabetes or not. check the App here https://diabetespredicting.streamlit.app/
 
-Diabetes Prediction Web App
+#Diabetes Prediction Web App
 This web application is designed to predict whether a person is diabetic or not based on input parameters. It uses a machine learning model trained on diabetes-related data.
 
-Getting Started
+#Getting Started
 Prerequisites
-Make sure you have the following dependencies installed:
+#Make sure you have the following dependencies installed:
 
 Python 3.x
 Streamlit
 NumPy
 Pickle
-You can install the required dependencies using the following command:
+#You can install the required dependencies using the following command:
 
 pip install streamlit numpy
 
-Installation
+#Installation
 1.Clone the repository: git clone https://github.com/Aks-hit/diabetes-prediction-app.git
 
 cd diabetes-prediction-app
@@ -25,7 +25,7 @@ cd diabetes-prediction-app
 
 The web app will be accessible in your browser at http://localhost:8501.
 
-Usage
+#Usage
 1.Enter the required information such as the number of pregnancies, glucose level, blood pressure, etc.
 
 2.Click the "Diabetes Test Result" button to get the prediction.
